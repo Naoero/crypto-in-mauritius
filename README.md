@@ -1,7 +1,7 @@
 # Crypto in Mauritius
 Crypotcurrency for Mauritius 🇲🇺
 
-## Faucets (Earn small amount of crypto for free)
+## Faucets (earn small amounts of cryptocurrencies for free)
 - Earn ZEC, MATIC, 1FLR (https://pipeflare.io/r/3jhn)
 - Earn Horizon (ZEN) (https://getzen.cash/auth/register?ref=325031)
 - Earn Zcash (ZEC) (https://globalhive.io/r/68483)
