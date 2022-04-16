@@ -10,3 +10,9 @@ Crypotcurrency for Mauritius 🇲🇺
 - Earn BAT with Brave Browser (Mobile & Desktop) (https://basicattentiontoken.org)
 - Earn various coins (https://firefaucet.win/ref/399100)
 - Earn various coins (faucetcrypto.com)
+
+## Exchanges to buy, trade, or stake crypto
+- Binance  (https://yayy.me/ee97fm8)
+- Coinbase (https://yayy.me/d9qe1kj)
+- KuCoin   (https://yayy.me/58k@b13)
+
