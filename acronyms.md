@@ -114,12 +114,12 @@
 + UASF - User Activated Soft Fork
 + UoA - Unit of Account
 
+## V
++ VDF - Verifiable Delay Function
+
 ## W
 + WASM - Web Assembly
 + WP - Whitepaper
-
-## V
-+ VDF - Verifiable Delay Function
 
 ## Z
 + ZK - Zero Knowledge
