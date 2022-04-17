@@ -121,5 +121,8 @@
 + WASM - Web Assembly
 + WP - Whitepaper
 
+## Y
+YTD - Year to Date
+
 ## Z
 + ZK - Zero Knowledge
