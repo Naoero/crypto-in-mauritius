@@ -47,11 +47,12 @@
 
 ## H
 + HODL - Hold On for Dear Life / HOLD
-+ HPS - Hashes Per Second
-+ HW - Hardware Wallet
++ HPS  - Hashes Per Second
++ HW   - Hardware Wallet
 
 ## I
-+ ICO  - Initial Coin Offering
++ ICO - Initial Coin Offering
++ IOU - I Owe You
 
 ## J
 + JOMO - Joy Of Missing Out
