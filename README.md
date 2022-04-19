@@ -15,4 +15,4 @@ Crypotcurrency for Mauritius 🇲🇺
 - Binance  (https://yayy.me/ee97fm8)
 - Coinbase (https://yayy.me/d9qe1kj)
 - KuCoin   (https://yayy.me/58k@b13)
-
+- Klever   (https://yayy.me/@xwewze)
