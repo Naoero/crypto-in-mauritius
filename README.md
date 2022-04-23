@@ -17,7 +17,7 @@ Crypotcurrency Guide for Mauritius 🇲🇺
 - KuCoin   (https://yayy.me/58k@b13)
 - Klever   (https://yayy.me/@xwewze)
 
-## Coin price tracker and virtual portfolio managment
+## Coin pricetracker, airdrops and virtual portfolio managment
 - https://coinmarketcap.com/invite?ref=613Z1XC8
 
 ## Play to Earn
