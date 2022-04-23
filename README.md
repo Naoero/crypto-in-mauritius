@@ -1,7 +1,7 @@
 # Crypto in Mauritius
-Crypotcurrency for Mauritius 🇲🇺
+Crypotcurrency Guide for Mauritius 🇲🇺
 
-## Faucets (earn small amounts of cryptocurrencies for free)
+## Free crypto / Faucets (earn small amounts of cryptocurrencies for free)
 - Earn ZEC, MATIC, 1FLR (https://pipeflare.io/r/3jhn)
 - Earn Horizon (ZEN) (https://getzen.cash/auth/register?ref=325031)
 - Earn Zcash (ZEC) (https://globalhive.io/r/68483)
@@ -16,3 +16,10 @@ Crypotcurrency for Mauritius 🇲🇺
 - Coinbase (https://yayy.me/d9qe1kj)
 - KuCoin   (https://yayy.me/58k@b13)
 - Klever   (https://yayy.me/@xwewze)
+
+## Coin price tracker and virtual portfolio managment
+- https://coinmarketcap.com/invite?ref=613Z1XC8
+
+## Play to Earn
+- Earn 1FLR while playing games https://pipeflare.io/r/3jhn
+- Earn diamonds and buy NFTs or convert to other gifts https://coinmarketcap.com/invite?ref=613Z1XC8
