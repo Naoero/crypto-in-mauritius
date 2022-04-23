@@ -7,19 +7,21 @@ Crypotcurrency Guide for Mauritius 🇲🇺
 - Earn Zcash (ZEC) (https://globalhive.io/r/68483)
 - Earn BTC (https://freebitco.in/?r=41622843)
 - Earn BANANO (https://monkeytalks.cc)
-- Earn BAT with Brave Browser (Mobile & Desktop) (https://basicattentiontoken.org)
+- Earn BAT with Brave Browser (Mobile & Desktop) (https://brave.com, https://basicattentiontoken.org)
 - Earn various coins (https://firefaucet.win/ref/399100)
-- Earn various coins (faucetcrypto.com)
+- Earn various coins by seeing ads (https://faucetcrypto.com/ref/491462)
 
 ## Exchanges to buy, trade, or stake crypto
-- Binance  (https://yayy.me/ee97fm8)
-- Coinbase (https://yayy.me/d9qe1kj)
-- KuCoin   (https://yayy.me/58k@b13)
-- Klever   (https://yayy.me/@xwewze)
+- Binance  (https://link.gy/383c9)
+- Coinbase (https://link.gy/704ad)
+- KuCoin   (https://link.gy/d910a)
+- Klever   (https://link.gy/ce62f)
 
 ## Coin pricetracker, airdrops and virtual portfolio managment
 - https://coinmarketcap.com/invite?ref=613Z1XC8
 
 ## Play to Earn
 - Earn 1FLR while playing games https://pipeflare.io/r/3jhn
-- Earn diamonds and buy NFTs or convert to other gifts https://coinmarketcap.com/invite?ref=613Z1XC8
+- Earn, claim diamonds daily and buy NFTs or convert to other gifts https://coinmarketcap.com/invite?ref=613Z1XC8
+- Coinbird: https://link.gy/2759c
+- Coinfarm: https://link.gy/8fd35
